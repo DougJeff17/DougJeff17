@@ -29,4 +29,6 @@ Sou um desenvolvedor web Front-End e apaixonado também pelo mundo do design de 
 Habilidade em Redes Sociais 
 
 
-<h4><a hraf="https://instagram/doug_jeffersonbjj">Insta</a></h4>
+<h4>Contate-me </h4>
+
+<a href="https://instagram/doug_jeffersonbjj">Insta</a>
