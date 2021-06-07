@@ -31,4 +31,5 @@ Habilidade em Redes Sociais
 
 <h4>Contate-me </h4>
 
-<a href="https://instagram/doug_jeffersonbjj">Insta</a>
+<a href="https://instagram/doug_jeffersonbjj">Instagram Pessoal</a>
+<a href="https://www.facebook.com/doug.jeffe">Facebook Pessoal</a>
