@@ -24,7 +24,7 @@ Sou um desenvolvedor web Front-End e apaixonado também pelo mundo do design de 
 
 <h4>Tecnologias</h4>
 
-<p>Front - End com HTML, CSS, JS.</p>
+<p>Front - End com Html, bootstrap, css, JS.</ p> 
 <p>Estudando Python nas horas vagas</p>
 Habilidade em Redes Sociais 
 
